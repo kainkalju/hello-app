@@ -16,6 +16,7 @@
 # our public Docker images such as gcr.io/google-samples/hello-app:1.0
 # are rebuilt and updated upon changes to the repository.
 
+# TEST1
 steps:
 
 # Build hello-app:1.0.
